@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>facebook</title>
+</head>
+<style>
+img{
+height:80px;
+width:80px;}
+input{
+width:400px;
+height:40px;}
+.a{color:white;
+background-color:royalblue;}
+div{
+padding-top:200px;}
+.b{
+color:royalblue;
+font-size:15px;
+height:30px;
+width:250px;
+background-white;}
+div{
+padding-top:200px;}
+div.c{
+padding-top:50px;}
+</style>
+<body>
+<center><br><img src="C:\Users\HP\Documents\f1.png"><br><br><br>
+<input type="text" placeholder="Email or phone number"><br><br>
+<input type="password" placeholder="Password"><br><br>
+<input class="a" type="button" value="Log In"><br><br>
+<input class="a" type="button" value="Login with Browser">
+<div><a href="file:///C:/Users/HP/Documents/f%20page%202.html"><u>Create Account</u></div><br>
+<a href="file:///C:/Users/HP/Documents/f3.html"><u>sign up for facebook</u>
+</body>
+</html>
+
+F_PAGE2 FILE:
+
+<html>
+<head>
+<title>Create account</title>
+<link rel="stylesheet" href="facebook login page.css">
+</head>
+<body style="background-color:royalblue;">
+<center>
+<br><img src="C:\Users\HP\Documents\f2.jpg"><br><br><br>
+<div class="c">
+<input type="text" placeholder="Email Id"><br><br>
+<input type="password" placeholder="Password"><br><br>
+<input class="b" type="button" value="Create Account"></div><br><br>
+<input class="b" type="button" value="Login with Browser">
+</center>
+</body>
+</html>
