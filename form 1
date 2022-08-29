@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>Janson University</title>
+</head>
+<fieldset style="background-color:lightcyan;">
+<legend></legend>
+<h1 style="font-family:georgia;"><center>JANSON'S UNIVERSITY,LUTHIANA</center></h1>
+<h2 style="color:darkblue;font-family:georgia;">
+<center>14<sup>th</sup>International Submission Form</center></h2>
+<h3 style="color:darkblue;font-family:georgia;"><center>Paper Submission Form</center></h3><br>
+<table align="left" cell padding="20">
+<tr>
+<td>Paper title:</td>
+<td><input type="text" name="pt"></td>
+</tr>
+<tr>
+<td>Author name:</td>
+<td><input type="text" name="pt"></td>
+</tr>
+<tr>
+<td>Author's email Id:</td>
+<td><input type="text" name="aei"></td>
+</tr>
+<tr>
+<td>Author's phone number:</td>
+<td><input type="text" name="apn"></td>
+</tr>
+<tr>
+<td>Author's category:</td>
+<td><input type="text" name="ac"></td>
+</tr>
+<tr>
+<td>Institute/Company name:</td>
+<td><input type="text" name="icn"></td>
+</tr>
+<tr>
+<td>City:</td>
+<td><input type="text" name="city"></td>
+</tr>
+<tr>
+<td>State:</td>
+<td><input type="text" name="state"></td>
+</tr>
+<tr>
+<td>Country:</td>
+<td><input type="text" name="cnt"></td>
+</tr>
+<tr>
+<td>Address of communication:</td>
+<td><input type="text" name="aoc" style="height:80px;width:170px></td>
+</tr>
+<tr>
+<td>Are you a ISTE member?</td>
+<td><input type="text" name="pt"></td>
+</tr>
+<tr>
+<td>Paper title:</td>
+<td><input type="text" name="pt"></td>
+</tr>
+<tr>
+<td>Paper title:</td>
+<td><input type="radio" name="iste">
+<label for="radio" name="iste">Yes</label>
+<input type="radio" name="iste">
+<label for="radio" name="iste">No</label>
+</td>
+</tr>
+<tr>
+<td>If yes, membership number:</td>
+<td><input type="text" name="mn">
+</td>
+<tr>
+<td>Paper category:</td>
+<td><input type="text" name="pc"></td>
+<tr>
+<td>Sub category</td>
+<td><input type="text" name="sc">
+</td>
+<tr>
+<td>Attach File:</td>
+<td><input type="file" name="af"></td>
+</tr><br><br>
+</fieldset>
+</html>
